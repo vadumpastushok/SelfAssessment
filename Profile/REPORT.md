@@ -79,7 +79,6 @@ Total: you have `68` of `72` skills, `4` to be upgraded, and `34` above needed
 | `...spread` | 🎓 known | ⟶  | 🖐️ used |
 | `...rest` | 🎓 known | ⟶  | 🖐️ used |
 | Destructuring | 🎓 known | ⟶  | 🖐️ used |
-| Chaining | 🎓 known | ⟶  | 🖐️ used |
 | IIFE | 🎓 known | ⟶  | 🖐️ used |
 | Async IIFE | 🎓 known | ⟶  | 🖐️ used |
 | `global` | 🎓 known | ⟶  | 🖐️ used |
@@ -87,7 +86,7 @@ Total: you have `68` of `72` skills, `4` to be upgraded, and `34` above needed
 | Strict mode | 🎓 known | ⟶  | 🖐️ used |
 | V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `88` of `98` skills, `10` to be upgraded, and `21` above needed
+Total: you have `89` of `98` skills, `9` to be upgraded, and `21` above needed
 
 ## [Async](/Skills/Async.md)
 
@@ -95,7 +94,6 @@ Total: you have `88` of `98` skills, `10` to be upgraded, and `21` above needed
 | For Node.js applied programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
 | Callback-last-error-first | 🎓 known | ⟶  | 🖐️ used |
-| Event | 🎓 known | ⟶  | 🖐️ used |
 | Signal | 👂 heard | ⟶  | 🖐️ used |
 | Readable | 🎓 known | ⟶  | 🖐️ used |
 | Writable | 🎓 known | ⟶  | 🖐️ used |
@@ -108,11 +106,10 @@ Total: you have `88` of `98` skills, `10` to be upgraded, and `21` above needed
 | Promise.race | 🎓 known | ⟶  | 🖐️ used |
 | Promise.any | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `37` of `50` skills, `13` to be upgraded, and `13` above needed
+Total: you have `38` of `50` skills, `12` to be upgraded, and `18` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Event | 🎓 known | ⟶  | 🖐️ used |
 | Signal | 👂 heard | ⟶  | 🎓 known |
 | AbortController | 🎓 known | ⟶  | 🖐️ used |
 | Error handling in async code | 🎓 known | ⟶  | 🖐️ used |
@@ -122,22 +119,15 @@ Total: you have `37` of `50` skills, `13` to be upgraded, and `13` above needed
 | Promise.race | 🎓 known | ⟶  | 🖐️ used |
 | Promise.any | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `28` of `37` skills, `9` to be upgraded, and `10` above needed
+Total: you have `29` of `37` skills, `8` to be upgraded, and `11` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
 | libuv | 👂 heard | ⟶  | 🎓 known |
 | Race conditions | 🎓 known | ⟶  | 🖐️ used |
-| Dead locks | 🎓 known | ⟶  | 🖐️ used |
-| Live locks | 🎓 known | ⟶  | 🖐️ used |
 | Callback-last-error-first | 🎓 known | ⟶  | 🖐️ used |
 | Thenable | 🎓 known | ⟶  | 🖐️ used |
-| Sync generator | 🎓 known | ⟶  | 🖐️ used |
-| Async Generator | 🎓 known | ⟶  | 🖐️ used |
-| Async Iterator | 🎓 known | ⟶  | 🖐️ used |
-| Event | 🎓 known | ⟶  | 🖐️ used |
 | Signal | 👂 heard | ⟶  | 🖐️ used |
-| Chain of responsibility | 🎓 known | ⟶  | 🖐️ used |
 | Middleware | 🎓 known | ⟶  | 🖐️ used |
 | Locks | 🎓 known | ⟶  | 🖐️ used |
 | callbackify | 🎓 known | ⟶  | 🖐️ used |
@@ -153,7 +143,6 @@ Total: you have `28` of `37` skills, `9` to be upgraded, and `10` above needed
 | AbortSignal | 🎓 known | ⟶  | 🖐️ used |
 | Promise unhandled rejection | 🎓 known | ⟶  | 🖐️ used |
 | Promise double resolve | 🎓 known | ⟶  | 🖐️ used |
-| ref() and unref() | 👂 heard | ⟶  | 🖐️ used |
 | Error handling in async code | 🎓 known | ⟶  | 🖐️ used |
 | Better stack traces with return await | 🎓 known | ⟶  | 🖐️ used |
 | JSON streaming serialization | 🎓 known | ⟶  | 🖐️ used |
@@ -163,12 +152,10 @@ Total: you have `28` of `37` skills, `9` to be upgraded, and `10` above needed
 | Promise.allSettled | 🎓 known | ⟶  | 🖐️ used |
 | Promise.race | 🎓 known | ⟶  | 🖐️ used |
 | Promise.any | 🎓 known | ⟶  | 🖐️ used |
-| Web Locks API | 👂 heard | ⟶  | 🎓 known |
 | IPC | 👂 heard | ⟶  | 🎓 known |
-| Channel API | 👂 heard | ⟶  | 🎓 known |
 | Revealing constructor | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `34` of `75` skills, `41` to be upgraded, and `14` above needed
+Total: you have `44` of `75` skills, `31` to be upgraded, and `17` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 

@@ -45,16 +45,16 @@
   - Hidden class: 🙋 explained
   - Object form: 🙋 explained
   - Instance: 🙋 explained
-  - Introspection: 🎓 known
+  - Introspection: 🖐️ used
   - Reflection: 🖐️ used
   - The diamond problem: 🎓 known
 - GRASP
-  - Information expert: 🎓 known
-  - Creator: 🎓 known
-  - Controller: 🎓 known
-  - Indirection: 🎓 known
-  - Low coupling: 🎓 known
-  - High cohesion: 🎓 known
+  - Information expert: 🖐️ used
+  - Creator: 🖐️ used
+  - Controller: 🖐️ used
+  - Indirection: 🖐️ used
+  - Low coupling: 🖐️ used
+  - High cohesion: 🖐️ used
   - Protected variations: 🎓 known
   - Pure fabrication: 🎓 known
 - SOLID
@@ -81,9 +81,9 @@
   - Prototype: 🙋 explained
   - Composite: 🖐️ used
   - Decorator: 🖐️ used
-  - Flyweight: 🎓 known
-  - Mediator: 🎓 known
-  - Memento: 🎓 known
+  - Flyweight: 🖐️ used
+  - Mediator: 🖐️ used
+  - Memento: 🖐️ used
   - Template Method: 🖐️ used
   - Visitor: 🖐️ used
   - Reactor: 🖐️ used
