@@ -96,7 +96,7 @@
   - Callback: 🖐️ used
   - Listener: 🖐️ used
   - Composition: 🖐️ used
-  - Pipe: *
+  - Pipe: 🖐️ used
   - Memoize: 🎓 known
   - Wrapper: 🖐️ used
   - Functor: 🎓 known

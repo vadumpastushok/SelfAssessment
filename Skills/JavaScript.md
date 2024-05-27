@@ -22,16 +22,16 @@
   - Iterators: 🖐️ used
   - Async generator: 🖐️ used
   - Async iterator: 🖐️ used
-  - Chaining: *
-  - Optional chaining: *
+  - Chaining: 🖐️ used
+  - Optional chaining: 🖐️ used
   - IIFE: 🎓 known
   - Async IIFE: 🎓 known
   - `global`: 🎓 known
   - `globalThis`: 🎓 known
-  - `window`: *
+  - `window`: 🖐️ used
   - Getters and setters: 🖐️ used
-  - `__proto__`: *
-  - `prototype`: *
+  - `__proto__`: 🖐️ used
+  - `prototype`: 🖐️ used
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
   - Logical Assignment: 🖐️ used
