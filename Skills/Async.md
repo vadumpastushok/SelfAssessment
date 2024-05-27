@@ -14,11 +14,11 @@
   - Event ports: 👂 heard
   - libuv: 👂 heard
   - Race conditions: 🎓 known
-  - Dead locks: 🎓 known
-  - Live locks: 🎓 known
+  - Dead locks: *
+  - Live locks: *
   - Concurrent programming: 🖐️ used
   - Parallel programming: 🖐️ used
-  - Actor Model: 🎓 known
+  - Actor Model: *
   - Thread: 🖐️ used
   - Process: 🖐️ used
 - Async contracts
@@ -29,15 +29,15 @@
   - Async/await: 🖐️ used
   - Future: 🖐️ used
   - Deferred: 🎓 known
-  - Sync generator: 🎓 known
-  - Async Generator: 🎓 known
-  - Async Iterator: 🎓 known
-  - Event: 🎓 known
+  - Sync generator: *
+  - Async Generator: *
+  - Async Iterator: *
+  - Event: *
   - Coroutine: 🖐️ used
   - Goroutine: 🎓 known
   - Signal: 👂 heard
   - Stream: 🖐️ used
-  - Chain of responsibility: 🎓 known
+  - Chain of responsibility: *
   - Middleware: 🎓 known
   - Locks: 🎓 known
 - Async adapters and utils
@@ -70,7 +70,7 @@
   - High resolution clock: 🎓 known
   - Callback hell: 🖐️ used
   - Promise hell: 🖐️ used
-  - ref() and unref(): 👂 heard
+  - ref() and unref(): *
   - Error handling in async code: 🎓 known
   - Better stack traces with return await: 🎓 known
   - JSON streaming serialization: 🎓 known
@@ -83,7 +83,7 @@
   - Promise.allSettled: 🎓 known
   - Promise.race: 🎓 known
   - Promise.any: 🎓 known
-  - Web Locks API: 👂 heard
+  - Web Locks API: *
   - IPC: 👂 heard
-  - Channel API: 👂 heard
+  - Channel API: *
   - Revealing constructor: 🎓 known

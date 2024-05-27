@@ -1,12 +1,12 @@
 ## Architecture
 
 - Application structure
-  - Modularity: 🖐️ used
-  - Components: 🖐️ used
-  - Directories: 🖐️ used
+  - Modularity: !
+  - Components: !
+  - Directories: !
   - GRASP: 🖐️ used
-  - SOLID: 🖐️ used
-  - GoF patterns: 🖐️ used
+  - SOLID: !
+  - GoF patterns: !
   - CQS: 🖐️ used
   - Leaking abstractions: 🎓 known
   - Multiparadigm code: 🖐️ used
@@ -24,8 +24,8 @@
   - Flexibility: 🖐️ used
   - Law of Demeter (LoD): 👂 heard
 - Application architecture
-  - Isolation between layer: 🖐️ used
-  - Domain-specific language (DSL): 🖐️ used
+  - Isolation between layer: !
+  - Domain-specific language (DSL): !
   - System vs applied code: 🎓 known
   - Multilayer approach: 🎓 known
   - Hexagonal architecture: 🖐️ used
@@ -88,7 +88,7 @@
   - Project scope: 🖐️ used
   - Enterprise service bus: 🎓 known
   - Service-oriented architecture: 🖐️ used
-  - Microservices: 🎓 known
+  - Microservices: *
   - Process choreography: 🎓 known
   - Service orchestration: 🎓 known
   - Data warehouse: 👂 heard
